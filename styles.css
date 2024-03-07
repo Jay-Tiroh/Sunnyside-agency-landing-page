@@ -8,7 +8,7 @@ body {
   font-family: "Barlow";
 }
 .top-container {
-  background-image: url("/images/desktop/image-header.jpg");
+  background-image: url("image-header.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -133,7 +133,7 @@ li > a {
 }
 
 .f-container1 {
-  background-image: url("/images/desktop/image-graphic-design.jpg");
+  background-image: url("image-graphic-design.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -144,7 +144,7 @@ li > a {
   font-weight: 900;
 }
 .f-container2 {
-  background-image: url("/images/desktop/image-photography.jpg");
+  background-image: url("image-photography.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
